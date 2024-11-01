@@ -1,0 +1,21 @@
+table#wpp-products td {
+    padding: 0;
+    position: relative;
+}
+
+table#wpp-products {
+    width: 100%;
+}
+
+table#wpp-products .fms-cond-logic-loading {
+    display: inline-block;
+    float: none;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    right: 0;
+    width: 50%;
+    height: 30%;
+    margin: auto;
+}
